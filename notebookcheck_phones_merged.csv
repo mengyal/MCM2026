@@ -1,0 +1,24 @@
+brand,model,review_year,review_date,off_w,standby_w,idle_dark_w,idle_mid_w,idle_light_w,load_mid_w,load_light_w,review_url
+Samsung,Galaxy S25,,,0.02,0.14,0.47,1.04,1.07,13.33,16.38,https://www.notebookcheck.net/Samsung-Galaxy-S25-review-The-star-among-compact-smartphones-is-losing-ground.989246.0.html
+Samsung,Galaxy S24,,,0.02,0.1,0.42,0.93,1.07,15.43,16.51,https://www.notebookcheck.net/Samsung-Galaxy-S24-review-The-best-small-Android-smartphone-gets-cheaper-but-not-better.809474.0.html
+Samsung,Galaxy A36 5G,,,0.07,0.27,0.86,1.75,1.82,5.31,10.95,https://www.notebookcheck.net/Samsung-Galaxy-A36-5G-review-The-affordable-smartphone-focuses-on-security-a-premium-feel.1013221.0.html
+Asus,ROG Phone 9 Pro,,,0.14,0.38,0.99,1.08,1.14,12.97,19.21,https://www.notebookcheck.net/Asus-ROG-Phone-9-Pro-review-This-smartphone-is-the-first-choice-for-every-gamer.924300.0.html
+Xiaomi,Xiaomi 17,2025.0,2025-10-19,0.09,0.28,0.79,0.95,1.13,6.29,8.23,https://www.notebookcheck.net/Xiaomi-17-review-The-best-battery-life-we-ve-ever-measured-in-a-phone.997424.0.html
+Xiaomi,Xiaomi 17 Pro,2025.0,2025-10-15,0.02,0.11,0.51,0.83,1.24,6.8,7.01,https://www.notebookcheck.net/Xiaomi-17-Pro-review-Smartphone-crushes-Samsung-Galaxy-S25-Ultra-at-less-than-half-the-cost.995445.0.html
+Oppo,Find X8 Ultra,2025.0,2025-04-03,0.02,0.19,0.8,0.86,0.95,6.7,6.8,https://www.notebookcheck.net/Oppo-Find-X8-Ultra-review-Strong-flagship-smartphone-with-powerful-Zoom-camera.985214.0.html
+Samsung,Galaxy S25+,2025.0,2025-02-09,0.06,0.29,0.59,0.73,0.75,5.6,9.3,https://www.notebookcheck.net/Samsung-Galaxy-S25-review-The-compact-smartphone-with-elite-power-and-Galaxy-AI.950780.0.html
+Honor,Honor 400 Pro,2025.0,2025-05-29,0.02,0.14,0.86,1.11,1.18,4.6,7.3,https://www.notebookcheck.net/Honor-400-Pro-review-A-large-battery-and-plenty-of-power-for-a-mid-range-smartphone.1012115.0.html
+Samsung,Galaxy A56 5G,2025.0,2025-04-10,0.0,0.22,0.73,0.94,1.55,4.52,12.65,https://www.notebookcheck.net/Samsung-Galaxy-A56-5G-review-Mid-range-smartphone-with-waterproof-case-long-battery-life-and-6-years-of-updates.999867.0.html
+Xiaomi,Redmi Note 14 Pro+ 5G,2025.0,2025-02-18,0.11,0.1,1.07,1.26,1.28,3.7,7.52,https://www.notebookcheck.net/Xiaomi-Redmi-Note-14-Pro-5G-review-Mid-range-heavyweight-with-a-200-MPix-camera.963252.0.html
+Xiaomi,Redmi Note 14 Pro 5G,2025.0,2025-02-16,0.07,0.19,1.17,1.38,1.41,3.58,8.44,https://www.notebookcheck.net/Redmi-Note-14-Pro-5G-review-A-feature-focused-smartphone-for-bargain-hunters.961821.0.html
+Xiaomi,Redmi Note 14 LTE,2025.0,2025-02-13,0.08,0.16,1.05,1.27,1.31,3.12,6.24,https://www.notebookcheck.net/Xiaomi-Redmi-Note-14-LTE-smartphone-review-More-power-and-stamina.959325.0.html
+Xiaomi,Redmi Note 14 Pro LTE,2025.0,2025-02-24,0.07,0.15,1.13,1.21,1.25,5.35,7.25,https://www.notebookcheck.net/Xiaomi-Redmi-Note-14-Pro-LTE-smartphone-review-Is-this-already-a-Pro.966090.0.html
+OnePlus,OnePlus 13,2024.0,2024-12-26,0.07,0.15,0.97,1.01,1.29,6.6,10.7,https://www.notebookcheck.net/OnePlus-13-review-This-smartphone-s-outstanding-battery-life-is-thanks-to-a-massive-6-000-mAh-battery.937527.0.html
+Motorola,ThinkPhone 25,2024.0,2024-11-05,0.08,0.2,1.1,1.4,2.6,4.9,11.1,https://www.notebookcheck.net/Lenovo-ThinkPhone-25-smartphone-review-Affordable-business-phone-with-long-update-cycle-and-superior-battery-life.912035.0.html
+Asus,ROG Phone 8 Pro,2024.0,2024-02-12,0.08,0.13,0.82,0.96,1.19,7.3,7.3,https://www.notebookcheck.net/Asus-ROG-Phone-8-Pro-review-From-gaming-smartphone-to-premium-smartphone.801753.0.html
+Xiaomi,Xiaomi 15,,,0.04,0.13,0.42,0.58,0.6,7.11,11.1,https://www.notebookcheck.net/Xiaomi-15-review-The-compact-phone-with-better-battery-life-than-iPhone-16.925480.0.html
+Xiaomi,Xiaomi 14 Ultra,,,0.01,0.22,0.8,0.89,0.91,8.99,9.01,https://www.notebookcheck.net/Xiaomi-14-Ultra-review-The-Leica-phone-comes-up-trumps.830640.0.html
+Samsung,Galaxy S24 Ultra,,,0.02,0.15,0.7,0.76,0.86,6.39,6.89,https://www.notebookcheck.net/Samsung-Galaxy-S24-Ultra-review-A-more-powerful-high-end-smartphone-with-a-good-camera.802007.0.html
+Samsung,Galaxy S23+,2023.0,2023-02-14,0.01,0.25,0.54,0.89,0.89,6.1,8.5,https://www.notebookcheck.net/Samsung-Galaxy-S23-review-A-long-lasting-smartphone-but-with-a-few-imperfections.696459.0.html
+OnePlus,OnePlus 10T,2022.0,2022-10-19,0.01,0.15,0.8,0.81,1.44,8.2,8.9,https://www.notebookcheck.net/OnePlus-10T-smartphone-review-The-new-smartphone-offers-full-performance-at-a-low-price.660867.0.html
+Honor,Honor Magic4 Lite,2022.0,2022-04-18,0.01,0.1,0.81,1.56,2.93,4.1,4.3,https://www.notebookcheck.net/Honor-Magic4-Lite-review-Solid-smartphone-with-5G-and-long-battery-life.612333.0.html
